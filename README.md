@@ -1,7 +1,6 @@
 # Benteng-Bentengan
 C++ Card Game
-
-
+_____________________________________________________________________
 
 Basic Rules:
 
@@ -35,6 +34,7 @@ Basic Rules:
 
 -Face cards have unique abilities
 
+_____________________________________________________________________
 
 Face Card Abilities:
 
@@ -64,12 +64,13 @@ King:
 
 -Using a King onto a Jack kills the life even with the Jack
 
-
+_____________________________________________________________________
 
 !Disclaimer:
 
 The King might get nerfed.
 
+_____________________________________________________________________
 
 Balance Change Ideas:
 
