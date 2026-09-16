@@ -68,12 +68,12 @@ _____________________________________________________________________
 
 !Disclaimer:
 
-The King might get nerfed.
+The King might get nerfed
 
 _____________________________________________________________________
 
 Balance Change Ideas:
 
--Kills the last 3 cards placed onto a life card (including the life card).
+-Kills the last 3 cards placed onto a life card (including the life card)
 
--A Jack on the life card will reduce that count to the last 2 cards.
+-A Jack on the life card will reduce that count to the last 2 cards
